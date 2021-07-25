@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" editBeforeRun="true" singleton="false" show_console_on_std_err="false" show_console_on_std_out="false">
+    <module name="recfun_4029" />
+    <option name="allowRunningInParallel" value="true" />
+    <option name="javaOptions" value="-Djline.terminal=NONE" />
+    <option name="myConsoleArgs" value="-usejavacp" />
+    <option name="selectedOptions">
+      <list />
+    </option>
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
